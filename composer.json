@@ -1,0 +1,17 @@
+{
+    "name": "mewasim/tracker",
+    "description": "A package to track user activities in Laravel",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Mewasim\\Tracker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mewasim",
+            "email": "alfwasim@gmail.com"
+        }
+    ],
+    "require": {}
+}
